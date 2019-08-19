@@ -1,6 +1,5 @@
-# COEN_6312
-Model -Driven Software Engineering
-The Airline Reservation System
+# COEN_6312 (Model -Driven Software Engineering)
+Project : The Airline Reservation System
 
 Running the system:
 
